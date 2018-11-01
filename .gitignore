@@ -1,0 +1,10 @@
+/.idea
+/node_modules
+/vendor
+/tests/*.cer
+npm-debug.log
+phpunit.xml
+yarn-error.log
+.php_cs.cache
+.phpunit.result.cache
+.DS_Store
